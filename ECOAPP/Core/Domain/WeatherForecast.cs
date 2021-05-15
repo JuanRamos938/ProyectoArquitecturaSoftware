@@ -1,6 +1,6 @@
 using System;
 
-namespace ECOAPP
+namespace ECOAPP.Core.Domain.WeatherForecast
 {
     public class WeatherForecast
     {

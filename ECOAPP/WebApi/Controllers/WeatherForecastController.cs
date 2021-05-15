@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ECOAPP.Core.Domain.WeatherForecast;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace ECOAPP.Controllers
+namespace ECOAPP.WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
